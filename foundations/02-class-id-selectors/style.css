@@ -1,0 +1,31 @@
+.number1, 
+    .number3, 
+    .number5 {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.number1 {
+    font-size: 50px;
+}
+
+#number2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.number3 {
+    font-size: 25px;
+}
+
+#number4 {
+    font-size: 36px;
+    background-color: lightgreen;
+}
+
+.number5 {
+    color: red;
+    font-size: 60px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
